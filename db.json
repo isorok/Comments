@@ -1,0 +1,7 @@
+{
+    "comments": [
+      { "postId": "1", "commentId": "1", "text": "some comment",  "userId": "1",  "eMail": "test@test.com",  "time": "01.04.2021 at 14:00"},
+      { "postId": "2", "commentId": "2", "text": "some comment",  "userId": "2",  "eMail": "test@test.com",  "time": "01.04.2021 at 14:10"},
+      { "postId": "3", "commentId": "3", "text": "some comment",  "userId": "3",  "eMail": "test@test.com",  "time": "01.04.2021 at 14:20"}
+    ]
+  }

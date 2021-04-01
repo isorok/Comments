@@ -1,0 +1,54 @@
+$black: #000000;
+$grey: #cccccc;
+$white: #ffffff;
+$red: #d83e3e;
+$silver-chalice: #aaaaaa;
+$mine-shaft: #282828;
+$mercury: #e4e2e1;
+$alto: #d7d5d4;
+$emperor: #4f4f4f;
+$alabaster: #f9f9f9;
+$dove-gray: #666666;
+$red: #FF0000;
+$orange: #ff692b;
+$pale-white: rgba(163, 39, 39, 0.5);
+$pale-white-darker: rgba(255, 255, 255, 0.8);
+$dark-red: #c31326;
+$pale-grey: rgba(255, 255, 255, 0.4);
+$pale-white: rgba(255, 255, 255, 0.6);
+$pale-yellow: rgba(244, 162, 54, 0.7);
+$notification-change-grey:#444;
+$notification-info-blue:#3498db;
+$notification-success-green:#2ecc71;
+$notification-warning-orange:#e67e22;
+$notification-error-red:#e74c3c;
+$notification-custom-purple:purple;
+$buddha-gold: #aea012;
+$orange-transparent: rgba(255, 165, 0, 1);
+$yellow-transparent: rgba(255, 229, 0, 0.5);
+$border-lightGrey: #ddd;
+
+$bg-colors: (
+  main-block: $white,
+  menu-block: $black,
+  nav-block: $white,
+  footer-block: $black,
+);
+
+$text-colors: (
+  menu-block: (
+    title: $white,
+    items: $silver-chalice,
+  ),
+  main-block: (
+    title: $black,
+    item: $mine-shaft,
+    selected: $black,
+    label1: $emperor,
+  ),
+  footer-block: (
+    title: $white,
+    items: $silver-chalice,
+    selected: $white,
+  ),
+);
